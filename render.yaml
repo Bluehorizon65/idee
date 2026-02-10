@@ -1,0 +1,4 @@
+# Render Configuration
+# This file is optional but helps with Render deployment
+
+# buildpacks Render uses (auto-detects Python)
