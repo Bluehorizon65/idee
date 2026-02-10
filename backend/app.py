@@ -16,7 +16,7 @@ app = Flask(__name__)
 CORS(app, resources={
     r"/api/*": {
         "origins": [
-            "https://dairyhub-dairy-website.netlify.app",  # Netlify production domain
+            "https://stellular-daifuku-971e29.netlify.app",  # Netlify production domain
             "http://localhost:3000",  # Development
             "http://localhost:5173",   # Vite dev
             "http://localhost:5000"    # Local Flask dev
